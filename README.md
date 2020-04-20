@@ -1,5 +1,36 @@
-# Welcome to GitHub Desktop!
+Apply linear regression for multiple features to predict the price of an unknown house. Use learning rate of 0.01 and complete 2 iterations. Use Gradient Descent Learning Algorithm.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Size (feet2)
+Number of bedrooms
+Number of floors
+Age of home (years)
+Price ($1000)
+
+
+2104
+5
+1
+45
+460
+
+
+1416
+3
+2
+40
+232
+
+
+1534
+3
+2
+30
+315
+
+
+852
+2
+1
+36
+178
